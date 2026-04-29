@@ -1,0 +1,10 @@
+{
+    "appName": {
+        "message": "Parallax IDE",
+        "description": "The name of the application"
+    },
+    "appDescription": {
+        "message": "Write, compile, and download code to your Parallax Boe-Bot Robot or custom BASIC Stamp microcontroller-based electronic creations.",
+        "description": "The description of the application"
+    }
+}
